@@ -1,0 +1,2 @@
+# Quick Thoughts
+Revise usage examples for main command-line tool
